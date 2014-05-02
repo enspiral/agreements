@@ -1,6 +1,6 @@
 Enspiral Agreements
 ===================
-[February, 2013](https://www.loomio.org/d/ORgnT6LY/enspiral-agreements) | [Overview](https://github.com/enspiral/agreements/blob/master/README.md)
+[February, 2014](https://www.loomio.org/d/ORgnT6LY/enspiral-agreements) | [Overview](https://github.com/enspiral/agreements/blob/master/README.md)
 
 This document outlines what Enspiral Agreements are, how they are created, and how they are changed.
 
