@@ -7,4 +7,4 @@ Agreements are formal decisions we have passed via Loomio, they are the binding 
 * [**Diversity Policy**](https://github.com/enspiral/agreements/tree/master/agreements/diversity.md) - we are committed to developing and fostering a culture of diversity within an equitable workplace where all people are respected and valued.
 * [**Enspiral People**](https://github.com/enspiral/agreements/tree/master/agreements/people.md) - what roles do people play in Enspiral.
 * [**Enspiral Ventures**](https://github.com/enspiral/agreements/tree/master/agreements/ventures.md) - how do ventures and teams relate to the network.
-* [**Enspiral Agreements**](https://github.com/enspiral/agreements/tree/master/agreements/agreements.md) - the meta document which defines how agreements are made and added to this document.
+* [**Enspiral Agreements**](https://github.com/enspiral/agreements/tree/master/agreements/agreements.md) - the meta document which defines how agreements are made.
