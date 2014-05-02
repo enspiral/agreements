@@ -8,3 +8,7 @@ Agreements are formal decisions we have passed via Loomio, they are the binding 
 * [**Enspiral People**](https://github.com/enspiral/agreements/tree/master/agreements/people.md) - what roles do people play in Enspiral.
 * [**Enspiral Ventures**](https://github.com/enspiral/agreements/tree/master/agreements/ventures.md) - how do ventures and teams relate to the network.
 * [**Enspiral Agreements**](https://github.com/enspiral/agreements/tree/master/agreements/agreements.md) - the meta document which defines how agreements are made.
+
+## License
+
+All content in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/enspiral/agreements/tree/master/LICENSE.md)
