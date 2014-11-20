@@ -70,7 +70,7 @@ Ventures are also free to make any other contributions they would like to the Fo
 There are three additional types of Enspiral Ventures which have slightly different relationships with the network. 
 
 #### Enspiral Services Teams
-Enspiral Services Limited houses multiple teams who share a common legal structure to increase collaboration and reduce overheads. They act as individual ventures in every other way and the fact they part of Enspiral Services is more of a legal footnote than a substantive difference. 
+Enspiral Services Limited houses multiple teams who share a common legal structure to increase collaboration and reduce overheads. Some of those teams may apply to be full ventures in their own right. The ones that do act as individual ventures in every other way and the fact they part of Enspiral Services is more of a legal footnote than a substantive difference. 
 
 #### Enspiral Branded Ventures
 An Enspiral Branded Venture behaves like a regular venture except it carries the Enspiral name in its title and uses the Enspiral logo as part of its core identity. The shared branding has additional benefits and risks to the network so they have a few more criteria
