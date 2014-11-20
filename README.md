@@ -1,6 +1,9 @@
 Agreements
 ==========
-Agreements are formal decisions we have passed via Loomio, they are the binding agreements at the heart of Enspiral.
+Agreements are formal decisions we have passed via Loomio defining how we want to work together, they are the binding agreements at the heart of Enspiral.
+
+## Enspiral
+These are agreements that govern the operatios of the whole network
 
 * [**Enspiral Collective Vision**](https://github.com/enspiral/agreements/tree/master/agreements/vision.md) - who we are and where we are going.
 * [**Enspiral 2014 Strategy**](https://github.com/enspiral/agreements/tree/master/agreements/2014-strategy.md) - focus on the core, capacity development, open source enspiral, amazing communications.
@@ -8,6 +11,12 @@ Agreements are formal decisions we have passed via Loomio, they are the binding 
 * [**Enspiral People**](https://github.com/enspiral/agreements/tree/master/agreements/people.md) - what roles do people play in Enspiral.
 * [**Enspiral Ventures**](https://github.com/enspiral/agreements/tree/master/agreements/ventures.md) - how do ventures and teams relate to the network.
 * [**Enspiral Agreements**](https://github.com/enspiral/agreements/tree/master/agreements/agreements.md) - the meta document which defines how agreements are made.
+
+## Enspiral Services 
+Agreements which govern the operations of Enspiral Services Limited which is our original company best described as a collective of contractors.
+
+* [**Teams**](https://github.com/enspiral/agreements/tree/master/agreements/services/teams.md) - how teams are formed, disbanded and their obligations while operating.
+
 
 ## License
 
