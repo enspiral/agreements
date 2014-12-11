@@ -17,10 +17,12 @@ As a social enterprise Enspiral Services contributes a significant portion of it
 ### Ownership Structure
 Enspiral Services is a collective using limited liability company with two classes of shares.
 
-#### Governance Shares
+*Governance Shares*
+
 These are the shares which control the company. One share per person held by our Members who make decisions about appointing the core team, directors and new members.
 
-#### Financial Shares
+*Financial Shares*
+
 There is one financial share in the company which is owned by the Enspiral Foundation so we can flexibly distribute funds towards our social mission.
 
 ### People
