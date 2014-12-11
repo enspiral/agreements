@@ -1,5 +1,7 @@
 Enspiral Services Agreements
 ============================
+* [**Overview**](overview.md) - an overview of Enspiral Services.
+* [**People**](people.md) - Members, Contributors and External Contractors.
 * [**Teams**](teams.md) - how teams are formed, disbanded and their obligations while operating.
 
 ## License
