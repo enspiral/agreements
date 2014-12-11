@@ -1,6 +1,6 @@
 # Enspiral Services People Agreement
 
-This document outlines the relationships individual have with Enspiral Services.
+This document outlines the relationships individuals have with Enspiral Services.
 
 There are three categories: Members, Contributors and External Contractor
 
