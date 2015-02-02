@@ -16,7 +16,7 @@ The official list of Members and Contributors is maintained [here](https://docs.
 At our heart Enspiral is nothing more than a group of people (our Contributors) and the relationships between them. The collective exists to help each Contributor succeed in maximising their positive social and environmental impact. 
 
 #### Joining Process
-Any Member can invite a new person to become a contributor. Prospective Contributors are invited to Google Plus and Loomio (and Hipchat if they request it). They initially have 3 months to evaluate the network. At the end of 3 months they are invited to become a Contributor and pay $90 / year towards our core costs. If money is a barrier we offer fee exemptions as needed.
+Any Member can invite a new person to become a contributor. Prospective Contributors are invited to Google Plus, Loomio and Slack. They initially have 3 months to evaluate the network. At the end of 3 months they are invited to become a Contributor and pay $90 / year towards our core costs. If money is a barrier we offer fee exemptions as needed.
 
 #### Leaving Process
 * Contributor asks to be removed or does not respond to the annual confirmation that they wish to be a Contributor.
