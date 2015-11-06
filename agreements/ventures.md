@@ -74,7 +74,7 @@ Enspiral Services Limited houses multiple teams who share a common legal structu
 
 #### Enspiral Branded Ventures
 An Enspiral Branded Venture behaves like a regular venture except it carries the Enspiral name in its title and uses the Enspiral logo as part of its core identity. The shared branding has additional benefits and risks to the network so they have a few more criteria
-* All staff (directors and employees - excluding external contractors) must be Enspiral Contributors
+* All long term team members (directors and employees - excluding external contractors) must be Enspiral Contributors
 * If the venture ever leaves the network they must remove any Enspiral branding from their name or logo
 
 #### Enspiral Owned Companies
