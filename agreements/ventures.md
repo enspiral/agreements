@@ -56,7 +56,7 @@ Ventures are also free to make any other contributions they would like to the Fo
 1. Engagement with the Network
   * Transparency, we share data and internal information with each other.
   * Reporting, we take the time to summarise our activities and update the Network.
-  * Communications, reps from each company are active with core comms, including Loomio, responding to requests from News, and Google+
+  * Communications, reps from each company are active with core comms, including Loomio, responding to requests from News
   * Ventures also offer the network other in kind contributions as they wish.
 
 #### Receive
