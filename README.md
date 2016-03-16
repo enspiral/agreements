@@ -1,3 +1,8 @@
+Deprecated
+==========
+
+This repo has been deprecated and the source of truth for Enspiral Agreements is now the [Enspiral Handbook](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html)
+
 Agreements
 ==========
 Agreements are formal decisions we have passed via Loomio defining how we want to work together, they are the binding agreements at the heart of Enspiral.
