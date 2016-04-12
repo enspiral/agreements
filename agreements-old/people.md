@@ -10,8 +10,6 @@ The Enspiral collective is composed of Contributors, who make up the bulk of the
 
 Members are Contributors who act as stewards and guardians of the collective and are responsible for maintaining our culture and purpose.
 
-The official list of Members and Contributors is maintained [here](https://docs.google.com/a/enspiral.com/spreadsheet/ccc?key=0Ahr3iqrIRxyQdGtmc3kwZE9fZWIzYTI2Q25xWmoxN3c&usp=sharing#gid=0).
-
 ### Contributors
 At our heart Enspiral is nothing more than a group of people (our Contributors) and the relationships between them. The collective exists to help each Contributor succeed in maximising their positive social and environmental impact. 
 
